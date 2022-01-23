@@ -6,7 +6,7 @@ def maskify(cc):
     else:
         return (cc)
     
-print (maskify("134"))
+
 
 
 
